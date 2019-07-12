@@ -1,0 +1,9 @@
+/ImageResizer/bin/*
+/ImageResizer/obj/*
+/.vs/*
+*.config
+*.lock
+*.user
+*.pfx
+*.exe
+*.cache
